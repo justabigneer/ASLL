@@ -1,2 +1,2 @@
 # ASLL
-this model is created to detect alphabets using ASL
+This is the demo repo created while building the ASL detector\
